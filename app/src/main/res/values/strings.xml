@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Phone Call Recycler Test</string>
+    <string name="app_name">Phone Caller</string>
     <string name="error_massage">Что-то пошло не так!</string>
     <string name="image_view_phone_call">Phone call</string>
 </resources>
